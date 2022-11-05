@@ -12,7 +12,7 @@ const Profile = () => {
         <div className="col-md-2 mb-3">
           <img
             src={picture}
-            alt="Profile"
+            alt="ProfilePicture"
             className="rounded-circle img-fluid profile-picture mb-3 mb-md-0"
           />
         </div>
